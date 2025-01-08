@@ -4,7 +4,7 @@ description = "All about this site"
 +++
 
 BitDevsDLA is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
-help grow a community in Douala, Cameroon area of those interested in discussing 
+help grow a community in Douala area of those interested in discussing 
 and participating in the research and development of Bitcoin and related 
 protocols and software. You can be well versed with or new to the topics, all are welcome. 
 Be advised: discussion will occassionally be technical.
@@ -27,7 +27,7 @@ descriptions of past meetups and on this web site. The discussion portion of
 the event is NEVER recorded. It is recommended that you have a firm grasp of 
 the basics of Bitcoin in order to extract the most value from our Socratic events.
 
-Please contact the organizers if you'd like to present at a future Socratic
+Please contact the organizers [contact@bitdevsdla.org](mailto:contact@bitdevsdla.org) if you'd like to present at a future Socratic
 event or have a recommended topic for discussion, or find the PR on the 
 [BitDevsDLA GitHub repo](https://github.com/BitDevsDLA/bitdevsdla.org) and add a comment. 
 There are different requirements for presentations depending on the nature of the project. Check our 

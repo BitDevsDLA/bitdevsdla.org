@@ -40,6 +40,7 @@ BitDevsDLA meetups. If you have any others to add to the list let us know.
 - [BitDevs Los Angeles](https://bitdevsla.org)
 - [BitDevs Nashville](https://nashbitdevs.org/)
 - [BitDevs Vancouver](https://bitdevs.ca/)
+- [BitDevs Nairobi](https://bitdevsnbo.org/)
 
 ### [Freenode IRC](https://freenode.net/)
 

@@ -16,5 +16,3 @@ By supporting BitdevsDLA, you:
 #### **How to Become a Sponsor?**  
 We are looking for partners who share our vision. If you are interested in joining our mission and becoming a sponsor, please reach out to us:  
 📧 [contact@bitdevsdla.org](mailto:contact@bitdevsdla.org)  
-
-Let’s build a future driven by technology and financial inclusion together!  

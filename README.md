@@ -35,6 +35,6 @@ All site configurations are contained in `config.toml`.
 
 ## Attributions
 
-Thanks to [BitDevs NBO](https://github.com/BitDevsNBO/bitdevsnbo.org) for the
+Thanks to [NashBitDevs](https://github.com/NashBitDevs/nashbitdevs.org) for the
 Jekyll site that this site is based on, and to [BitDevs LA](https://bitdevsla.org) for creating 
 this [Zola](https://www.getzola.org) BitDevs template.
