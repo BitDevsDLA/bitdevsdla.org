@@ -8,13 +8,9 @@ template = "post.html"
 
 11:00am Welcoming Address
 
-11:05am Hello World!
+11:10am Hello World!
 
-11:40am Bitcoin as a Development Protocol
-
-12:10pm Lightning Network and Instant Payment Applications
-
-12:45pm Decentralization Beyond Bitcoin 
+11:20am Bitcoin as a Development Protocol
 
 ### Location
 
