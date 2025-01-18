@@ -6,17 +6,17 @@ template = "post.html"
 
 ### Agenda
 
-11:00am Welcoming Address
+   11:00am Welcoming Address
 
-11:10am Hello World!
+   11:10am Hello World!
 
-11:20am Bitcoin as a Development Protocol
+   11:20am Bitcoin as a Development Protocol
 
 ### Location
 
-The event is hosted at **Douala**:
+   The event is hosted at **Douala**:
 
-[Map](https://maps.app.goo.gl/716fjVvKYUBT4WNy8)  
+   [Map](https://maps.app.goo.gl/716fjVvKYUBT4WNy8)  
 
 ### Reminders
 
@@ -26,3 +26,7 @@ The event is hosted at **Douala**:
    - Leave the meeting space as clean as you found it
    - Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
    - Questions are encouraged, including basic ones
+
+### Topics
+
+   - N/A
