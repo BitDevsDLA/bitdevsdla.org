@@ -6,17 +6,19 @@ template = "post.html"
 
 ### Agenda
 
-   11:00am Welcoming Address
+   13:00am Welcoming Address
 
-   11:10am Hello World!
+   13:10am Hello World!
 
-   11:20am Bitcoin as a Development Protocol
+   14:00am Bitcoin as a Development Protocol
 
 ### Location
 
-   The event is hosted at **Douala**:
+The event is hosted at **St Louis University Institute - Douala**:
 
-   [Map](https://maps.app.goo.gl/716fjVvKYUBT4WNy8)  
+[Map](https://maps.app.goo.gl/cvSJw6DpbU6m4pfH6?g_st=iwb)  
+
+[Reservation](https://lu.ma/p9b0e4rs)  
 
 ### Reminders
 
@@ -29,4 +31,4 @@ template = "post.html"
 
 ### Topics
 
-   - N/A
+   - N/A(update later)
