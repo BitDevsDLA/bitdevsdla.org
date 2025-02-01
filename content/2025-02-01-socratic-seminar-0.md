@@ -14,11 +14,15 @@ template = "post.html"
 
 ### Location
 
-The event is hosted at **St Louis University Institute - Douala**:
+The event is hosted at **St Louis University Institute - Douala**
 
 [Map](https://maps.app.goo.gl/cvSJw6DpbU6m4pfH6?g_st=iwb)  
 
 [Reservation](https://lu.ma/p9b0e4rs)  
+
+### Announcements
+
+We are excited to introduce our very first Socratic Seminar! A special thank you to our sponsors [Btrust](https://www.btrust.tech/) for food, refreshments and event space.
 
 ### Reminders
 
