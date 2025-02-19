@@ -4,14 +4,6 @@ template = "post.html"
 [extra]
 +++
 
-### Agenda
-
-   13:00am Welcoming Address
-
-   13:10am Hello World!
-
-   14:00am Bitcoin as a Development Protocol
-
 ### Location
 
 The event is hosted at **St Louis University Institute - Douala**
@@ -35,4 +27,26 @@ We are excited to introduce our very first Socratic Seminar! A special thank you
 
 ### Topics
 
-   - N/A(update later)
+### Bitcoin Ecosysteme
+
+---
+
+MC: Nzonda Fotsing
+
+- [BitDevs Douala](https://x.com/BitcoinSophist)
+- [Our mission, vision, and ambitions](https://x.com/BitcoinSophist)
+- [Programmes](https://x.com/BitcoinSophist)
+
+### Bitcoin Development
+
+---
+
+MC: Nenba Jonathan
+
+- [How does Bitcoin work?](https://bitcoin.org/en/how-it-works)
+- [What is the Lightning Network?](https://strike.me/learn/what-is-the-lightning-network/)
+- [Bitcoin Developer Program](https://www.btrust.tech/)
+
+MC: Sonkeng Maldini
+
+- TBC
