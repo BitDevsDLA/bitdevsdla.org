@@ -27,7 +27,7 @@ We are excited to introduce our very first Socratic Seminar! A special thank you
 
 ### Topics
 
-### Bitcoin Ecosysteme
+### Bitcoin Ecosystem
 
 ---
 
@@ -46,6 +46,7 @@ MC: Nenba Jonathan
 - [How does Bitcoin work?](https://bitcoin.org/en/how-it-works)
 - [What is the Lightning Network?](https://strike.me/learn/what-is-the-lightning-network/)
 - [Bitcoin Developer Program](https://www.btrust.tech/)
+
 
 MC: Sonkeng Maldini
 
