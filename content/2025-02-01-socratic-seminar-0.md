@@ -47,7 +47,6 @@ MC: Nenba Jonathan
 - [What is the Lightning Network?](https://strike.me/learn/what-is-the-lightning-network/)
 - [Bitcoin Developer Program](https://www.btrust.tech/)
 
-
 MC: Sonkeng Maldini
 
-- TBC
+- [The Bitcoin Network](https://github.com/kallerosenbaum/grokkingbitcoin/blob/master/ch08-peer-to-peer-network.adoc)
