@@ -44,6 +44,12 @@ MC: Nenba Jonathan
 - [Bitcoin Wallets: Understanding How They Work](https://bitcoin.org/en/how-it-works)
 - [Bitcoin Addresses](https://bitcoin.design/guide/glossary/address/)
 
+
+
+MC: Sonkeng Maldini
+
+- [Bitcoin Blocks and Transactions in depth ](https://sdmg15.com/)
+
 #### Upcoming Events & Announcements
 
 ---
