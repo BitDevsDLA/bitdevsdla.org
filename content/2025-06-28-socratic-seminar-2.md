@@ -10,7 +10,7 @@ The event is hosted at **St Louis University Institute - Douala**
 
 [Map](https://maps.app.goo.gl/cvSJw6DpbU6m4pfH6?g_st=iwb)  
 
-[Reservation](https://lu.ma/cgsm389f)  
+[Reservation](https://lu.ma/t7wt8mfp)  
 
 ### Announcements
 
