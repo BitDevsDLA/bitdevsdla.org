@@ -39,17 +39,13 @@ MC: Nzonda Fotsing
 
 ---
 
-MC: Nenba Jonathan
-
-- [Bitcoin Wallets: Understanding How They Work](https://bitcoin.org/en/how-it-works)
-- [Bitcoin Addresses](https://bitcoin.design/guide/glossary/address/)
-
-
-
 MC: Sonkeng Maldini
 
 - [Bitcoin Blocks and Transactions in depth ](https://sdmg15.com/)
 
-#### Upcoming Events & Announcements
+MC: Nenba Jonathan
+
+- [Bitcoin Wallets & Addresses: Understanding How They Work](https://bitcoin.org/en/how-it-works)
+- [Activity: Misty Breez ](https://github.com/breez/misty-breez)
 
 ---
