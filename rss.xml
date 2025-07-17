@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevsDLA</title>
+      <link>/</link>
+      <description>BitDevsDLA is a community in Douala, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Socratic Seminar #3</title>
+          <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-3/</link>
+          <guid>/socratic-seminar-3/</guid>
+          <description xml:base="/socratic-seminar-3/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;St Louis University Institute - Douala&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;cvSJw6DpbU6m4pfH6?g_st=iwb&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lu.ma&#x2F;00v5do83&quot;&gt;Reservation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We’re back with another event, and this time! A huge thank you to our sponsor &lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for providing the venue, food, and refreshments. We can&#x27;t wait to dive into engaging discussions with you all!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin only event&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitcoin-ecosystem&quot;&gt;Bitcoin Ecosystem&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nzonda Fotsing&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin education programs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Sonkeng Maldini&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sdmg15.com&#x2F;&quot;&gt;Bitcoin Blocks and Transactions in depth &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;MC: Nenba Jonathan&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;Understanding Bitcoin Addresses: From Cryptography to Privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #2</title>
+          <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-2/</link>
+          <guid>/socratic-seminar-2/</guid>
+          <description xml:base="/socratic-seminar-2/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;St Louis University Institute - Douala&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;cvSJw6DpbU6m4pfH6?g_st=iwb&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lu.ma&#x2F;t7wt8mfp&quot;&gt;Reservation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We’re back with another event, and this time! A huge thank you to our sponsor &lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for providing the venue, food, and refreshments. We can&#x27;t wait to dive into engaging discussions with you all!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin only event&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitcoin-ecosystem&quot;&gt;Bitcoin Ecosystem&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nzonda Fotsing&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinSophist&quot;&gt;Our mission, vision, and ambitions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Sonkeng Maldini&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sdmg15.com&#x2F;&quot;&gt;Bitcoin Blocks and Transactions in depth &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;MC: Nenba Jonathan&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;Bitcoin Wallets &amp;amp; Addresses: Understanding How They Work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;breez&#x2F;misty-breez&quot;&gt;Activity: Misty Breez &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #1</title>
+          <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-1/</link>
+          <guid>/socratic-seminar-1/</guid>
+          <description xml:base="/socratic-seminar-1/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;St Louis University Institute - Douala&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;cvSJw6DpbU6m4pfH6?g_st=iwb&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lu.ma&#x2F;cgsm389f&quot;&gt;Reservation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We’re back with another event, and this time! A huge thank you to our sponsor &lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for providing the venue, food, and refreshments. We can&#x27;t wait to dive into engaging discussions with you all!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin only event&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitcoin-ecosystem&quot;&gt;Bitcoin Ecosystem&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nzonda Fotsing&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinSophist&quot;&gt;Our mission, vision, and ambitions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nenba Jonathan&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;Bitcoin Wallets: Understanding How They Work&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;guide&#x2F;glossary&#x2F;address&#x2F;&quot;&gt;Bitcoin Addresses&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;MC: Sonkeng Maldini&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sdmg15.com&#x2F;&quot;&gt;Bitcoin Blocks and Transactions in depth &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;upcoming-events-announcements&quot;&gt;Upcoming Events &amp;amp; Announcements&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nzonda Fotsing&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;afriquebitcoin.org&#x2F;&quot;&gt;Conference Bitcoin Afrique&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #0</title>
+          <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-0/</link>
+          <guid>/socratic-seminar-0/</guid>
+          <description xml:base="/socratic-seminar-0/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;St Louis University Institute - Douala&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;cvSJw6DpbU6m4pfH6?g_st=iwb&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lu.ma&#x2F;p9b0e4rs&quot;&gt;Reservation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our very first Socratic Seminar! A special thank you to our sponsors &lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for food, refreshments and event space.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin only event&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;bitcoin-ecosystem&quot;&gt;Bitcoin Ecosystem&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nzonda Fotsing&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinSophist&quot;&gt;BitDevs Douala&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinSophist&quot;&gt;Our mission, vision, and ambitions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinSophist&quot;&gt;Programmes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Nenba Jonathan&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;How does Bitcoin work?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;strike.me&#x2F;learn&#x2F;what-is-the-lightning-network&#x2F;&quot;&gt;What is the Lightning Network?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Bitcoin Developer Program&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;MC: Sonkeng Maldini&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kallerosenbaum&#x2F;grokkingbitcoin&#x2F;blob&#x2F;master&#x2F;ch08-peer-to-peer-network.adoc&quot;&gt;The Bitcoin Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
